@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
+| [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
@@ -22,13 +23,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
+| [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
