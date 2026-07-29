@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
