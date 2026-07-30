@@ -44,10 +44,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
