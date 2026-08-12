@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -62,5 +64,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
