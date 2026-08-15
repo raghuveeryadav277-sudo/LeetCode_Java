@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
@@ -79,4 +81,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
