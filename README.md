@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0125-valid-palindrome/) | Easy |
