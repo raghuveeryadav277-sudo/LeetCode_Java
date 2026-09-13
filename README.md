@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0283-move-zeroes/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
@@ -135,6 +137,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0724-find-pivot-index/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
