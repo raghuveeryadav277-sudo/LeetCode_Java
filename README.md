@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
