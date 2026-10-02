@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Heap (Priority Queue)
@@ -163,5 +165,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
