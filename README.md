@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
