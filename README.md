@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 <!---LeetCode Topics End-->
