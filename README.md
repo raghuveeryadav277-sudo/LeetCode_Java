@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0009-palindrome-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
