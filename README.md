@@ -61,17 +61,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0344-reverse-string/) | Easy |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
