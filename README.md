@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0867-transpose-matrix/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0067-add-binary/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
