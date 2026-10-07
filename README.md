@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -190,10 +191,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/raghuveeryadav277-sudo/LeetCode_Java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
